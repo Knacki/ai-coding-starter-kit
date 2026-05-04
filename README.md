@@ -319,7 +319,7 @@ Created by **Alex Sprogis** – AI Product Engineer & Content Creator.
 
 - [YouTube](https://www.youtube.com/@alex.sprogis)
 - [Website](https://alexsprogis.de)
-
+- [AI-Coding_Starter Kit](https://www.alexsprogis.de/guides/ai-coding-starter-kit)
 ---
 
 ## License
